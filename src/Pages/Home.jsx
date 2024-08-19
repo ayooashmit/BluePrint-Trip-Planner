@@ -27,7 +27,7 @@ function App() {
       </div>
       <div className=" w-screen h-1/6 grid place-content-center">
       <div className="h-2/10 text-center Card-Title text-xl">
-        <p>Trip BluePrint | Developed By Swarnadeep Saha Poddar</p>
+        <p>Trip BluePrint | Developed By Swarnadeep and Ashmit </p>
         </div>
         {/* <p className="text-xl md:text-2xl text-white">
           Developed By Swarnadeep Saha Poddar
